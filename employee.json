@@ -1,0 +1,50 @@
+
+[{
+    "email": "christian@gmail.com",
+    "imageUrls":"https://th.bing.com/th/id/R.d671c40b9359772e2d3941bc71292174?rik=Q4MwVnG9gZHCOw&riu=http%3a%2f%2fsolariotuffnglass.com%2fimages%2fteam%2f2.png&ehk=UpaEi9oKCyt%2bGYIS8xxMwu%2fZdHpfjZFbM4c1vIs4%2fFc%3d&risl=&pid=ImgRaw&r=0",
+    "JobTitle":"DEV-Java",
+    "name":"Ekpindi Gerald",
+    "phone":"0700035544"
+
+},
+
+{
+    "email": "yanis@gmail.com",
+    "imageUrls":"https://thumbs.dreamstime.com/z/businessman-avatar-cartoon-character-profile-picture-wearing-suit-glasses-portrait-round-icon-vector-illustration-graphic-149144704.jpg",
+    "JobTitle":"DEV-C",
+    "name":"yannis HerY",
+    "phone":"07816544"
+
+},
+{
+    "email": "christian@gmail.com",
+    "imageUrls":"https://www.bing.com/images/search?view=detailV2&ccid=qxYlrhWL&id=79D2457E5571751F8817C6832155BFD22B2A9920&thid=OIP.qxYlrhWLaKSWrYwoG_KOFAHaH2&mediaurl=https%3a%2f%2fangeldesign.fr%2fmodules%2flabtestimonials%2fimg%2f312-getavataaarscom-femme.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ab1625ae158b68a496ad8c281bf28e14%3frik%3dIJkqK9K%252fVSGDxg%26pid%3dImgRaw%26r%3d0&exph=560&expw=528&q=avatar+d%27une+personne&simid=608044460334927214&FORM=IRPRST&ck=7953136C17A49A4824E2C17C6154F471&selectedIndex=23&qpvt=avatar+d%27une+personne",
+    "JobTitle":"DEV-WEB",
+    "name":"Christophe Gerald",
+    "phone":"07886544"
+
+},
+{
+    "email": "christian@gmail.com",
+    "imageUrls":"https://www.bing.com/images/search?view=detailV2&ccid=qxYlrhWL&id=79D2457E5571751F8817C6832155BFD22B2A9920&thid=OIP.qxYlrhWLaKSWrYwoG_KOFAHaH2&mediaurl=https%3a%2f%2fangeldesign.fr%2fmodules%2flabtestimonials%2fimg%2f312-getavataaarscom-femme.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.ab1625ae158b68a496ad8c281bf28e14%3frik%3dIJkqK9K%252fVSGDxg%26pid%3dImgRaw%26r%3d0&exph=560&expw=528&q=avatar+d%27une+personne&simid=608044460334927214&FORM=IRPRST&ck=7953136C17A49A4824E2C17C6154F471&selectedIndex=23&qpvt=avatar+d%27une+personne",
+    "JobTitle":"DEV-WEB",
+    "name":"Christophe Gerald",
+    "phone":"07886544"
+
+},
+{
+    "email": "barry@gmail.com",
+    "imageUrls":"https://thumbs.dreamstime.com/z/businesswoman-avatar-cartoon-character-profile-picture-wearing-glasses-holding-book-portrait-round-icon-vector-illustration-149140229.jpg",
+    "JobTitle":"DEV-WEB",
+    "name":"Barry mariama",
+    "phone":"01876544"
+
+},
+{
+    "email": "chaymae@gmail.com",
+    "imageUrls":"https://image.freepik.com/vecteurs-libre/profil-personnage-dessin-anime-avatar-femme-affaires_18591-50579.jpg",
+    "JobTitle":"DEV-PHYTHON",
+    "name":"Chamae Moussolna",
+    "phone":"07867743"
+
+}]
