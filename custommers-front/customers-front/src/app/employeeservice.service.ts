@@ -2,12 +2,13 @@ import { Injectable } from '@angular/core';
 import {HttpClient} from "@angular/common/http";
 import {Observable} from "rxjs";
 import {Employee} from "./employee";
+import {environment} from "../environments/environment";
 
 @Injectable({
   providedIn: 'root'
 })
 export class EmployeeserviceService {
- private apiServeUrl='';
+ private apiServeUrl= environment.apiBaseUrl;
   constructor(private http :HttpClient) { }
 
   public getEmployees():Observable<Employee[]>{
@@ -24,6 +25,6 @@ export class EmployeeserviceService {
   }
 
   public addEmployee(employee: Employee) :Observable<Employee>{
-    return this.http.post<Employee>(`${this.apiServeUrl}/employe/add, `, employee)
+    return this.http.post<Employee>(`${this.apiServeUrl}/employe/add`, employee)
   }
 }
